@@ -1,6 +1,13 @@
-
 body {
- background-color: #FAEBD7;
+ background-color: #FA;
   color: #654321;
   font-family: Arial, Bookman-old-style;  
+  margin: 5% 5%;
+}
+
+.experience-header {
+  text-tansform: uppercase;
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+  text-align: center
 }
