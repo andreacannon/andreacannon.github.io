@@ -1,6 +1,6 @@
 body {
  background-color: #FA;
-  color: #654321;
+  color: black;
   font-family: Arial, Bookman-old-style;  
   margin: 5% 5%;
 }
@@ -9,8 +9,12 @@ body {
   text-tansform: uppercase;
   border-bottom: 1px solid;
   border-top: 1px solid;
-  background-color: rgba(0,0,0, 0.1);
-  text-align: center; 
- 
+  background-color:  0.1);
+  text-align: center
+ }
+    
+ .banner{
+   background-color: tan;
+  }
     
 }
