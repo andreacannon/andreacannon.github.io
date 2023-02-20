@@ -2,7 +2,7 @@ body {
  background-color: #FA;
   color: black;
   font-family: Arial, Bookman-old-style;  
-  margin: 5% 5%;
+  margin: 20% 20%;
 }
 
 .experience-header {
@@ -14,7 +14,21 @@ body {
  }
     
  .banner{
-   background-color: tan;
+   background-color: #ffffff; 
+   font-size: large; 
+   font-family: buffalo;
   }
+
+.name{
+  font-size: xx-large; 
+  font-family: buffalo;
+  }
+
+.role{
+  text-align: left; width: 50%; float: left;
+}
+.year{
+ text-align: right; width: 50%; float: right;
+}
     
 }
