@@ -1,34 +1,47 @@
 body {
- background-color: #FA;
+ background-color: #FFFFFF;
   color: black;
-  font-family: Arial, Bookman-old-style;  
-  margin: 20% 20%;
+  font-family: Arial, times new roman, sans-serif;  
+   margin-top: 1%;
+  margin-bottom: 10%;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 .experience-header {
-  text-tansform: uppercase;
   border-bottom: 1px solid;
   border-top: 1px solid;
-  background-color:  0.1);
   text-align: center
  }
     
- .banner{
+ .pic{
    background-color: #ffffff; 
-   font-size: large; 
-   font-family: buffalo;
+   width: 50%; 
+   float: right;  text-align: center;
   }
 
+.summary{
+ text-align: left; 
+  width: 50%; 
+  float: right; 
+  font-size: large
+  font-family: Times new roman
+}
+
 .name{
-  font-size: xx-large; 
-  font-family: buffalo;
+  font-size: 60px; 
+  font-family: Times new roman
   }
 
 .role{
-  text-align: left; width: 50%; float: left;
+  text-align: left; 
+  width: 50%; 
+  float: left;
 }
 .year{
- text-align: right; width: 50%; float: right;
+ text-align: right; 
+  width: 50%; 
+  float: right;
 }
     
 }
